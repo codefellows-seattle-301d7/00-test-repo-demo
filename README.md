@@ -17,8 +17,10 @@ Get some practice in :smiley:
 11. `git add wat.js`
 12. `git commit -m 'remove semicolon to make the lint test fail'`
 13. `git push origin test-branch`
-13. Head over to GitHub to make a PR from `test-branch`, let the test run and finish, and see what the result is!  
+13. Head over to GitHub to make a PR from `test-branch`, copy the resulting link in your URL after creating the Pull Request (to submit in Canvas), let the test run and finish, and see what the result is!  
 
 > Before we wrap up, notice the "Issues?" icon button next to the "Build Status" icon? When you're stuck in lab (after the 15 minute rule :wink:), click on the issues button and fill out the template answering all the questions and finally checking the boxes either by placing an 'x' inside the square brackets, or by clicking on the boxes after submitting the issue. This will notify the instructional team immediately! (TAs included).  
 
 Try it out! Create a test issue to get a feel for how it works :sunglasses:
+
+**_When finished, submit to Canvas the links to your PR as well as the sample Issue that you created.**_
