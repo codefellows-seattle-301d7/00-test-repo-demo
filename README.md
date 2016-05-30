@@ -20,4 +20,5 @@ Get some practice in :smiley:
 13. Head over to GitHub to make a PR from `test-branch`, let the test run and finish, and see what the result is!  
 
 > Before we wrap up, notice the "Issues?" icon button next to the "Build Status" icon? When you're stuck in lab (after the 15 minute rule :wink:), click on the issues button and fill out the template answering all the questions and finally checking the boxes either by placing an 'x' inside the square brackets, or by clicking on the boxes after submitting the issue. This will notify the instructional team immediately! (TAs included).  
+
 Try it out! Create a test issue to get a feel for how it works :sunglasses:
