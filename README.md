@@ -23,4 +23,4 @@ Get some practice in :smiley:
 
 Try it out! Create a test issue to get a feel for how it works :sunglasses:
 
-**When finished, submit to Canvas the links to your PR as well as the sample Issue that you created.**_
+**When finished, submit to Canvas the links to your PR as well as the sample Issue that you created.**
