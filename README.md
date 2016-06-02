@@ -21,8 +21,8 @@ Get some practice in :smiley:
 11. Now, assuming we are still inside of the `starter-code` folder, we can:
 12. `git add wat.js`
 12. `git commit -m 'remove semicolon to make the lint test fail'`
-13. `git push origin your-name`
-13. Head over to GitHub to make a PR from `your-name`.
+13. `git push origin` your-name
+13. Head over to GitHub to make a PR from the branch with your name.
 14. This will take you to a comment section that has some "bolierplate" (pre-strutured) comments. It is your task to fill in the blanks and follow the instructions :smiley:
 15. Once finished with the PR comments section, submit the PR, copy the resulting link that you see in your URL path at the top of the browser window after creating the Pull Request (to submit in Canvas). 
 16. Now let the test finish, and see what the result is! 
