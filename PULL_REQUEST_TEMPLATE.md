@@ -1,0 +1,17 @@
+>_This is an example of what your pull request will look like each day before you and your partner fill it out together._  
+  1. The underscores will be replaced with your names and finally the time spent on the lab assignment.  
+  2. Next you will document the approach you took solving each TODO item in the code base.  
+  3. Finally, you will check the boxes confirming proper PR practices on the resulting page. Try it out!
+
+**Today, _ and _ paired together. It took about _**
+
+#### Reflect and summarize on your process for each `TODO` item :  
+  1. First, we started on ...
+  2. Next, we ...
+  3. 
+
+#### Checklist
+- [ ] I have entered the Pull Request title in the format of "MyName-PartnerName"
+- [ ] This PR includes commits from both myself and my partner; e.g. We followed good pair programming practices by switching driver/navigator roles.
+- [ ] There is no extraneous, unrelated code included in this PR.
+- [ ] We have summarized our `TODO:` process above.
