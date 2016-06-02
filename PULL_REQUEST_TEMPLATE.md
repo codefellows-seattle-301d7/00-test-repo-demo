@@ -15,7 +15,7 @@ You may ignore any odd characters you see - these are markdown-specific characte
   3. 
 
 #### Checklist (before submitting, fill in each set of square brackets with an 'x')
-- [] I have entered the Pull Request title in the format of "MyName-PartnerName"
+- [] I have entered the Pull Request title in the format of "firstname-lastname"
 - [] This PR includes commits from both myself and my partner; e.g. We followed good pair programming practices by switching driver/navigator roles.
 - [] There is no extraneous, unrelated code included in this PR.
 - [] We have summarized our `TODO:` process above.
