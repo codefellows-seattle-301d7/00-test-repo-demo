@@ -26,7 +26,7 @@ Get some practice in :smiley:
 14. This will take you to a comment section that has some "bolierplate" (pre-strutured) comments. It is your task to fill in the blanks and follow the instructions :smiley:
 15. Once finished with the PR comments section, submit the PR, copy the resulting link that you see in your URL path at the top of the browser window after creating the Pull Request (to submit in Canvas). 
 16. Now let the test finish, and see what the result is! 
-17. If you'd like to see an example, finished PR, check out mine! https://github.com/codefellows-seattle-301d7/00-test-repo-demo/pull/1
+17. If you'd like to see an example, finished PR, check out mine:     https://github.com/codefellows-seattle-301d7/00-test-repo-demo/pull/1
 
 > Before we wrap up, notice the "Issues?" icon button next to the "Build Status" icon? If you're ever stuck in lab (after the 15 minute rule :wink:), click on the issues button and fill out the template answering all the questions and finally checking the boxes either by placing an 'x' inside the square brackets, or by clicking on the boxes after submitting the issue. This will notify the instructional team immediately! (TAs included).  
 
