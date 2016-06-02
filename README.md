@@ -11,8 +11,8 @@ Get some practice in :smiley:
 3. `git clone` this fork into your `my-forked-repos` directory (review setup [instructions](https://github.com/codefellows/seattle-301d7/blob/master/README.md#create-and-setup-your-301-directory-structure)).  
 4. `cd` into this repository.  
 5. Immediately `git checkout -b your-name` (ex: git checkout -b rick-patci)  
-  - Notice the "build passing" message icon in this README file? That's an import from Travis CI - just one of many continuous integration tools used by organizations and project teams all over the world! We use Travis CI in this class to help us lint code being submitted (in your case as the developer, it will test any PRs you submit for proper linting).
-  - Let's try and get a "build failing" message instead, so we can see what that's like.
+  - Notice the "*build passing*" message icon in this README file? That's an import from Travis CI - just one of many continuous integration tools used by organizations and project teams all over the world! We use Travis CI in this class to help us lint code being submitted (in your case as the developer, it will test any PRs you submit for proper linting).
+  - **Let's try and get a "build failing" message instead, so we can see what that's like**:
 10. Open up the `wat.js` file and remove the semicolon from the end of the line and save the file.
 11. `git add wat.js`
 12. `git commit -m 'remove semicolon to make the lint test fail'`
