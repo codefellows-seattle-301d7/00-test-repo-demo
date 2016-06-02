@@ -31,8 +31,8 @@ https://github.com/codefellows-seattle-301d7/00-test-repo-demo/pull/1
 
 > Before we wrap up, notice the "Issues?" icon button next to the "Build Status" icon? If you're ever stuck in lab (after the 15 minute rule :wink:), click on the issues button and fill out the template answering all the questions and finally checking the boxes either by placing an 'x' inside the square brackets, or by clicking on the boxes after submitting the issue. This will notify the instructional team immediately! (TAs included).  
 
-Try it out! Create a test issue now to get a feel for how it works (the orange button next to the build passing icon). :sunglasses:
-Here's an example of my test issue:  
+Try it out! Create a test issue now to get a feel for how it works (the orange button next to the build passing icon). :sunglasses:  
+Here's an example test issue I created:  
 https://github.com/codefellows/seattle-301d7/issues/1
 
 **When finished, submit to Canvas the links to your PR as well as the sample Issue that you created.**
