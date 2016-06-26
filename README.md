@@ -29,7 +29,7 @@ Get some practice in :smiley:
 17. If you'd like to see an example, finished PR, check out mine:     
 https://github.com/codefellows-seattle-301d7/00-test-repo-demo/pull/1
 
-> Before we wrap up, notice the orange "Ask For Help!" icon button next to the "Build Status" at the beginning of this README file? If you're ever stuck in lab (after the 15 minute rule :wink:), click on the issues button and fill out the template answering all the questions and finally checking the boxes either by placing an 'x' inside the square brackets, or by clicking on the boxes after submitting the issue. This will notify the instructional team immediately! (TAs included).  
+> Before we wrap up, notice the orange "Ask For Help!" icon button next to the "Build Status" at the beginning of this README file? If you're ever stuck in lab (after the 15 minute rule :wink:), click on this icon and fill out the template answering all the questions and finally checking the boxes either by placing an 'x' inside the square brackets, or by clicking on the boxes after submitting the issue. This will notify the instructional team immediately! (TAs included).  
 
 Try it out! Create a test issue now to get a feel for how it works (the orange button next to the build passing icon). :sunglasses:  
 Here's an example test issue I created:  
